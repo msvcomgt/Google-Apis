@@ -1,2 +1,6 @@
-# Google-Apis
-Clases en Python para el consumo de las Google API's
+# Google API's
+Classes in Python for the consumption of Google APIs to be used in any type of python project.
+
+## API's working
+
+- My Businnes
